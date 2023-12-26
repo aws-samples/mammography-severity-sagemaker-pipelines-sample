@@ -13,7 +13,7 @@ For this solution, you should have the following prerequisites:
 -	Terraform version 1.5.5 or later installed on Jenkins server
 -	Work out of us-east-1 region to deploy the solution. 
 
-Follow instructions on blog to setup cross account access with IAM Roles, S3 Buckets,SageMaker Model Registry.
+Follow instructions on [blog](https://aws.amazon.com/blogs/machine-learning/promote-pipelines-in-a-multi-environment-setup-using-amazon-sagemaker-model-registry-hashicorp-terraform-github-and-jenkins-ci-cd/) to setup cross account access with IAM Roles, S3 Buckets,SageMaker Model Registry.
 
 
 ## Architecture Diagram
